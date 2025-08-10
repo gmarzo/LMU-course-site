@@ -1,1 +1,1 @@
-# LMU-cousre-site
+# LMU-course-site
